@@ -1,2 +1,1 @@
-# protal-app.github.io
-Website
+# Protal website

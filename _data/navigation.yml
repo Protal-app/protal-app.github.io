@@ -1,0 +1,7 @@
+socials:
+- label: LinkedIn
+  icon: fab fa-linkedin-in
+  url: "https://www.linkedin.com/company/protal-app/"
+- label: Twitter
+  icon: fab fa-twitter
+  url: "https://twitter.com/protal_app"
